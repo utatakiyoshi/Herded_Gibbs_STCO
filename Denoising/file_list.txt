@@ -1,0 +1,2 @@
+1
+256 256 inputs/apple-1.txt inputs/apple-1_answer.txt
